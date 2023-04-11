@@ -64,7 +64,7 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Essence of Linear Algebra (3Blue1Brown) <br>
         &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - Essence of calculus (3Blue1Brown) <br>
         &emsp;&emsp;&emsp;:video_camera: [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) - Coursera (Imperial College London) - 3 Courses <br>
-        &emsp;&emsp;&emsp;:video_camera: [Mathematics for Machine Learning and Data Science Specialization
+        &emsp;&emsp;&emsp;:video_camera: [Mathematics for ML and Data Science Specialization
 ](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?utm_campaign=websitecourses-m4ml-topbutton&utm_medium=institutions&utm_source=deeplearning-ai) - Coursera (Deeplearning.ai) - 3 Courses <br>
         &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) - Statistics Fundamentals (StatQuest with Josh Starmer) <br>
 
