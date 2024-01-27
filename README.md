@@ -5,30 +5,30 @@ The track is divided to 3 phases.
 ## :beginner: Beginner level
 
 **1. Pyhon** <br>
-        &emsp;&emsp;&emsp;:video_camera:[Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) - Udacity <br>
-        &emsp;&emsp;&emsp;:video_camera:[Python for Everybody Specialization](https://www.coursera.org/specializations/python?) - Coursera - 5 Courses <br>
-        &emsp;&emsp;&emsp;:video_camera: [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python) - DataCamp <br>
-        &emsp;&emsp;&emsp;:closed_book: [Think Python](https://www.greenteapress.com/thinkpython/thinkpython.pdf) - Book <br>                      
+        &emsp;&emsp;&emsp;📹 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) - Udacity <br>
+        &emsp;&emsp;&emsp;📹 [Python for Everybody Specialization](https://www.coursera.org/specializations/python?) - Coursera - 5 Courses <br>
+        &emsp;&emsp;&emsp;📹 [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python) - DataCamp <br>
+        &emsp;&emsp;&emsp;📕 [Think Python](https://www.greenteapress.com/thinkpython/thinkpython.pdf) - Book <br>                      
 
 
 **2. Numpy** <br>
-        &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) <br>
-        &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy) <br>
-        &emsp;&emsp;&emsp;:closed_book: [Documentation](https://numpy.org/doc/1.18/user/quickstart.html) - First 4 Chapters <br>
-        &emsp;&emsp;&emsp;:closed_book: [Huawei Talent](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view) <br>
-        &emsp;&emsp;&emsp;:closed_book: [Practice - Kaggle](https://www.kaggle.com/code/utsav15/100-numpy-exercises) - important <br>
+        &emsp;&emsp;&emsp;📕 [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) <br>
+        &emsp;&emsp;&emsp;📕 [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy) <br>
+        &emsp;&emsp;&emsp;📕 [Documentation](https://numpy.org/doc/1.18/user/quickstart.html) - First 4 Chapters <br>
+        &emsp;&emsp;&emsp;📕 [Huawei Talent](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view) <br>
+        &emsp;&emsp;&emsp;📕 [Practice - Kaggle](https://www.kaggle.com/code/utsav15/100-numpy-exercises) - important <br>
 
 
 **3. Pandas**<br>
-        &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Corey Schafer <br>
-        &emsp;&emsp;&emsp;:video_camera: [DataCamp](https://app.datacamp.com/learn/skill-tracks/data-manipulation-with-python) - 4 Courses <br>
-        &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/pandas) <br>
-        &emsp;&emsp;&emsp;:closed_book: [Documentation](https://pandas.pydata.org/docs/pandas.pdf) - User Guide <br>
-        &emsp;&emsp;&emsp;:closed_book: [Article](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79#:~:text=Differences%20between%20loc%20and%20iloc,-The%20main%20distinction&text=loc%20is%20label%2Dbased%2C%20which,0%2Dbased%20integer%20position) - loc vs iloc <br>
+        &emsp;&emsp;&emsp;📹 [Youtube-Playlist](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Corey Schafer <br>
+        &emsp;&emsp;&emsp;📹 [DataCamp](https://app.datacamp.com/learn/skill-tracks/data-manipulation-with-python) - 4 Courses <br>
+        &emsp;&emsp;&emsp;📹 [Kaggle](https://www.kaggle.com/learn/pandas) <br>
+        &emsp;&emsp;&emsp;📕 [Documentation](https://pandas.pydata.org/docs/pandas.pdf) - User Guide <br>
+        &emsp;&emsp;&emsp;📕 [Article](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79#:~:text=Differences%20between%20loc%20and%20iloc,-The%20main%20distinction&text=loc%20is%20label%2Dbased%2C%20which,0%2Dbased%20integer%20position) - loc vs iloc <br>
 
 **4. Scipy**<br>
-        &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy) <br>
-        &emsp;&emsp;&emsp;:closed_book: [Documentation](https://docs.scipy.org/doc/scipy/) - User Guide <br>
+        &emsp;&emsp;&emsp;📹 [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy) <br>
+        &emsp;&emsp;&emsp;📹 [Documentation](https://docs.scipy.org/doc/scipy/) - User Guide <br>
 
 
 
