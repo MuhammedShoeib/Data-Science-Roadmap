@@ -85,7 +85,7 @@ The track is divided to 3 phases.
          &emsp;&emsp;&emsp;📹 [Project](https://www.coursera.org/learn/applied-data-science-capstone)<br>
 
 **3. DataBase** <br>
-         &emsp;&emsp;&emsp;📹 [ITI](https://youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t&si=wZAI0aGrqwOUfIGp) - Youtube <br>
+         &emsp;&emsp;&emsp;📹 [ITI](https://youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t&si=wZAI0aGrqwOUfIGp) - Youtube (Arabic) <br>
          &emsp;&emsp;&emsp;📹 [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2024/) - MIT OpenCourseWare <br>
 
          
