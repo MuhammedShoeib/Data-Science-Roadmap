@@ -13,6 +13,7 @@ The track is divided to 3 phases.
 
 
 **2. Numpy** <br>
+        &emsp;&emsp;&emsp;📹 [Youtube-Playlist](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=2497s) - freeCodeCamp.org <br>
         &emsp;&emsp;&emsp;📕 [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) <br>
         &emsp;&emsp;&emsp;📕 [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy) <br>
         &emsp;&emsp;&emsp;📕 [Documentation](https://numpy.org/doc/1.18/user/quickstart.html) - First 4 Chapters <br>
